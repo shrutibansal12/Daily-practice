@@ -1,3 +1,7 @@
 .hidden{
     display: none;
 }
+.modal{
+    height: 100px;
+    width: 100px;
+}
